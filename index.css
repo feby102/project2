@@ -1,0 +1,42 @@
+.main{
+  width:40%;
+box-shadow: 1px 1px 10px black;
+margin-top: 15px;
+padding: 10px;
+
+}
+h2{font-family: "cairo",sans-serif}
+input{
+    margin-bottom: 10px;
+    width:60% ;
+    padding: 5px;
+    font-family: "cairo",sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+button{
+    border:none;
+    padding: 5px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #1ac15a;
+    cursor: pointer;
+    font-family: "cairo",sans-serif;
+    margin-bottom: 15px;
+    
+}
+label{
+    padding: 10px;
+    font-family: "cairo",sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+background-color: #1f87cf;
+color: white;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "cairo",sans-serif;
+    font-weight: bold;
+}
